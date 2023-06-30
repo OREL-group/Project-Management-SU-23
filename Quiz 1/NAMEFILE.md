@@ -5,4 +5,3 @@ Stefan Chu\
 Lazaro Esquivel\
 Aishani Sahoo\
 Lisa Zenku
-Daniel Belzer\
