@@ -1,4 +1,4 @@
-## IS340 Term Paper: Open Source Japan Tourist Guide Webpage
+## IS340 Term Paper SkillFullHands.com
 ### Abstract
 This paper is going to outline the target audience, project scope, and scaling, and the different developmental phases of the website called “"Skillfullhands.com,". This project is designed to help unemployment among blue collar workers. I will also use concepts and ideals learned in IS 340 to bring the project to life.
 ### Purpose
@@ -64,7 +64,7 @@ Phase 4 would be the last stage. Once the website grows in user an popularity I 
 
 In conclusion Skillhands.com would be used to help unemployment between blue collar workers. It would help job seekers find and fill in the gap between employers and candidates. Blue collar workers tend to be left behind in tech and job listing sites. This website would be developed towards their job searching needs.
 
-###References
+### References
 
 “LinkedIn U.S. Users by Education 2022.” Statista, https://www.statista.com/statistics/246180/share-of-us-internet-users-who-use-linkedin-by-education-level/. Accessed 6 Aug. 2023.
 
